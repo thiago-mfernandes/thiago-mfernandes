@@ -21,6 +21,19 @@
 <a href="https://www.github.com/thiago-mfernandes/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white style="border-radius: 30px" target="_blank"></a> 
  </div>
   
+### Atualmente 
+<p>🚧 - Trabalhando como freelancer no desenvolvimento de um Software as a Service de gestão de pessoas para o segmento de igrejas. </p>
+<p>🚨 O projeto encontra-se no momento em fase de:</p>
+
+<p>📍 [ ] - Levantamento de requisitos e entrevistas com os usuários;</p>
+<p>📍 [ ] - diagramação de entidades e casos de uso para contrução do banco de dados;</p>
+<p>📍 [ ] - Prototipação de telas de alta fidelidade no Figma.</p>
+
+<p>⛔ O repositório do projeto estará privado por medida de segurança e propriedade intelectual, mas um repositório para análise do projeto, somente com reademe será disponibilizado.</p>
+
+❤️ ❤️ ❤️
+
+  
  
 ### Principais Habilidades:
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp; 
