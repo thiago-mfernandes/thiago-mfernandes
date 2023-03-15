@@ -5,9 +5,9 @@
 - 🌱 No momento, estou desenvolvendo minhas habilidades como FULLSTACK desenvolvendo um produto simples, confiável e escalável.
 
 - 📫 Contate-me pelo WhatsApp (19)984009105 ou pelo email falecomobranco@yahoo.com.br
-
+?
 <div>
   <a href="https://github.com/thiago-mfernandes">
   <img height="180em" src="https://github.readme.stats.vercel.app/api?username=thiago-mfernandes&show_icons&theme=dracula&include_all_commits=true&count_private=true/>
-  <img height="180em" src="https://github.readme.stats.vercel.app/api/top-langs/?username=thiago-mfernandes&layout=compact&langs_count=16&theme=dracula />
+  <img height="180em" src="https://github.readme.stats.vercel.app/api/top-langs/?username=thiago-mfernandes&layout=compact&langs_count=16&theme=dracula/>
 <div>
