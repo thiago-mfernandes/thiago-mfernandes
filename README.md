@@ -26,7 +26,7 @@
 <p>🚨 O projeto encontra-se no momento em fase de:</p>
 
 <p>📍 [ ] - Levantamento de requisitos e entrevistas com os usuários;</p>
-<p>📍 [ ] - diagramação de entidades e casos de uso para contrução do banco de dados;</p>
+<p>📍 [ ] - diagramação de entidades e casos de uso para construção do banco de dados;</p>
 <p>📍 [ ] - Prototipação de telas de alta fidelidade no Figma.</p>
 
 <p>⛔ O repositório do projeto estará privado por medida de segurança e propriedade intelectual, mas um repositório para análise do projeto, somente com reademe será disponibilizado.</p>
